@@ -131,9 +131,10 @@ This workflow enhances your DevOps pipeline and makes your application deploymen
 📌 Repository Structure
 
 docker-github-lab/
-
+<pre><font color="#12488B"><b>.</b></font>
 ├── Dockerfile
 ├── README.md
 └── app.py
 
 1 directory, 3 files
+</pre>
