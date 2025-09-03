@@ -30,4 +30,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: rasikh11/python-app:v2
+          tags: rasikh11/python-app:${{ github.run_number }}
